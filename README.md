@@ -23,8 +23,8 @@ W moich projektach korzystam z następujących technologii:
 - 💻 JavaScript (ES6+)
 - 🌐 Git
 - 🐍 Python
-- 🇨 C
--💽 MAKEFILE
+- 🇨 C 
+- 💽 MAKEFILE
 
 ## 🚀 Jak uruchomić
 
