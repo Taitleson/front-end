@@ -1,0 +1,57 @@
+```markdown
+# 🛠️ Projekt Menedżer dla C
+
+Witaj w moim projekcie menedżera do tworzenia i zarządzania projektami C! 📂✨ Ten skrypt automatyzuje proces tworzenia nowych projektów, kompilacji, uruchamiania oraz usuwania istniejących projektów.
+
+## 📚 Spis treści
+
+- [📖 Opis](#opis)
+- [📂 Zawartość](#zawartość)
+- [🛠 Technologie](#technologie)
+- [🚀 Jak używać](#jak-używać)
+
+
+## 📖 Opis
+
+Ten projekt zawiera skrypt w Pythonie, który automatyzuje proces tworzenia projektów w języku C z użyciem Makefile. Skrypt umożliwia tworzenie nowych projektów, kompilację, uruchamianie oraz usuwanie istniejących projektów.
+
+## 📂 Zawartość
+
+- **main.py**: Główny skrypt Python do zarządzania projektami.
+- **Makefile**: Szablon Makefile używany do kompilacji projektów C.
+- **src/**: Katalog zawierający przykładowy plik źródłowy C (`main.c`).
+- **lib/**: Katalog do przechowywania bibliotek (obecnie pusty).
+
+## 🛠 Technologie
+
+Projekt korzysta z następujących technologii:
+
+- 🐍 Python
+- 🏷️ C
+- 📦 Makefile
+
+## 🚀 Jak używać
+
+1. **Klonowanie repozytorium:**
+   ```bash
+   git clone https://github.com/Taitleson/front-end/generator-projektów
+   cd generator-projektów
+   ```
+
+2. **Uruchomienie skryptu:**
+   ```bash
+   python3 gen.py
+   ```
+
+3. **Tworzenie nowego projektu:**
+   Skrypt poprosi o podanie nazwy nowego projektu. Jeśli projekt o tej nazwie już istnieje, zostaniesz poproszony o podanie innej nazwy.
+
+4. **Usuwanie istniejącego projektu:**
+   Skrypt wyświetli listę istniejących projektów i poprosi o podanie numeru projektu do usunięcia.
+
+
+
+
+Dziękuję za odwiedzenie mojego repozytorium! 🙌
+```
+
