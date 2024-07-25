@@ -1,4 +1,4 @@
-# 🚀 Frontend Projects by [Twoje Imię]
+# 🚀 Projects by Taitleson
 
 Witaj w moim repozytorium front-endowym! 🎨 Tutaj znajdziesz różnorodne projekty, które tworzę w trakcie nauki. 🧠
 
