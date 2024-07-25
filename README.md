@@ -21,6 +21,7 @@ W moich projektach korzystam z następujących technologii:
 - 🎨 CSS3 (w tym SASS)
 - 💻 JavaScript (ES6+)
 - 🌐 Git
+- 🐍 Python
 
 ## 🚀 Jak uruchomić
 
