@@ -34,7 +34,7 @@ Projekt korzysta z następujących technologii:
 
 1. **Klonowanie repozytorium:**
    ```bash
-   git clone https://github.com/Taitleson/front-end/generator-projektów
+   git clone https://github.com/Taitleson/projekty/generator-projektów
    cd generator-projektów
    ```
 
